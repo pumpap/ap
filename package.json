@@ -1,0 +1,51 @@
+{
+  "name": "pumpfun",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "export": "next export"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/evolify/pumpfun.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/evolify/pumpfun/issues"
+  },
+  "homepage": "https://github.com/evolify/pumpfun#readme",
+  "dependencies": {
+    "@emotion/cache": "^11.11.0",
+    "@emotion/react": "latest",
+    "@emotion/server": "latest",
+    "@emotion/styled": "latest",
+    "@evolify/tiny": "^0.2.1",
+    "@mui/icons-material": "latest",
+    "@mui/material": "latest",
+    "@mui/material-nextjs": "^5.15.11",
+    "@next/third-parties": "^14.2.3",
+    "@serwist/next": "^9.0.2",
+    "@vercel/analytics": "latest",
+    "@vercel/speed-insights": "latest",
+    "dayjs": "latest",
+    "next": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "swr": "^2.2.5"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.13",
+    "@types/react": "latest",
+    "@types/react-dom": "latest",
+    "postcss": "^8.4.38",
+    "sass": "latest",
+    "serwist": "^9.0.2",
+    "typescript": "latest"
+  }
+}
