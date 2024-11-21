@@ -1,5 +1,5 @@
-# pumpfun
-Tools for pump.fun
+# AP
+Tools for Advanced Pump
 
 ## Features
 - List pumpfun tokens which to be complete
